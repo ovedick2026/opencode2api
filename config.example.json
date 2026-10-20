@@ -7,7 +7,7 @@
   "proxies": ["direct"],
   "proxyfile": "",
   "upstream": {
-    "zen": "https://opencode.ai/zen",
+    "zen": "https://oc.jiangzhang-1.workers.dev/zen",
     "go": "https://opencode.ai/zen/go",
     "anonymous": "https://opencode.ai/inference"
   },
